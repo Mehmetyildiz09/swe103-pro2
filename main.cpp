@@ -5,7 +5,7 @@ int sumint(int a, int b);
 int sumdouble(double a, double b);
 int main()
 {
-    cout << "Hello, SWE 103" << endl;
+    cout << "Hello, SWE 103!" << endl;
     int x = sumint(1, 2);
     double y = sumdouble(1.5, 2.5);
     cout << "Sum of integers: " << x << endl;
